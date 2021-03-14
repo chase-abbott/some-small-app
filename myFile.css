@@ -1,5 +1,12 @@
+body{
+    background-color: whitesmoke;
+}
 h1 {
     font-size: 200%;
+}
+#chase{
+    color: rgba(36, 80, 10, 0.5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
